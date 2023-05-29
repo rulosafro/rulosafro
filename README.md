@@ -1,11 +1,14 @@
-# 👋 Hola, soy Rama Ramírez y este es mi perfil de github donde estare subiendo mis trabajos de programación ya sean personales, profesionales o de cursos.
-Actualmente estoy cursando el curso de desarrollador BackEnd en Coderhouse
+# 👋 Hola, soy Rama Ramírez 
 
-#SOBRE MÍ
+Este es mi perfil de github donde estare subiendo mis trabajos de programación ya sean personales, profesionales o de cursos.
+Actualmente estoy cursando el curso de desarrollador BackEnd en Coderhouse
+---- 
+
+# SOBRE MÍ
 Soy una persona creativa que busca nuevos conocimientos, herramientas y actividades aportando una mirada crítica y constructiva para llegar a nuevas soluciones que logren diferenciar. Busco ser un actor de cambio aportando mis habilidades en equipo.
 Me he enfocado en aprender sobre Start-Ups, emprendimiento, programación, innovación y marketing digital buscando ser un potenciador de proyectos.
 
-#HABILIDADES
+# HABILIDADES
 METODOLOGÍAS AGILES - FRONTEND - UX/UI METOGOLOGÍAS DE INNOVACIÓN - DISEÑO SERVICIO FOTOGRAGÍA DE PRODUCTO - ECOMMERCE/SHOPIFY MODELADO & IMPRESIÓN 3D - MKT & ADs
 
 
